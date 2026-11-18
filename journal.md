@@ -19,3 +19,4 @@
 ## Day 2
 - Learned how to use variables.
 - Built a simple print statement using f-strings.
+"Testing VS Code Git workflow!"
