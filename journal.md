@@ -15,3 +15,7 @@
 - Learn Git commits.
 - Connect my local repository to GitHub.
 - Upload my first project.
+
+## Day 2
+- Learned how to use variables.
+- Built a simple print statement using f-strings.
