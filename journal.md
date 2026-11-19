@@ -20,3 +20,4 @@
 - Learned how to use variables.
 - Built a simple print statement using f-strings.
 "Testing VS Code Git workflow!"
+"Just finished and now im ending my day with that much of learning"
