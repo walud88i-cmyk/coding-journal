@@ -1,4 +1,5 @@
 name = "Walid"
-age = 21
-gpa = 2.91
-print("My name is", name, "and I am", age, "years old. My GPA is", gpa)
+print(f"Hello my name is {name}, and i am learning Python!")
+goal = "to become a BCI developer"
+WANNADO = "revolutionize the world with BCI"
+print(f"My goal is {goal}, and i wanna {WANNADO}.")
