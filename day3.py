@@ -1,5 +1,5 @@
-name = "Walid"
-print(f"Hello my name is {name}, and i am learning Python!")
-goal = "to become a BCI developer"
-WANNADO = "revolutionize the world with BCI"
-print(f"My goal is {goal}, and i wanna {WANNADO}.")
+item = input("what item would you like to buy? ")
+price = float(input("what is the price of the item? "))
+quantity = int(input("how many would you like to buy? "))
+total = price * quantity
+print(f"you have purchased {quantity} {item}(s) for a total of ${total:.2f}.")
